@@ -6,7 +6,7 @@
 ### soln:A Component is one of the core building blocks of React. In other words, we can say that every application you will develop in React will be made up of pieces called components. Components make the task of building UIs much easier. 
 
 ## Q3-What is the dataflow of React?
-### soln: ![][https://miro.medium.com/max/1838/1*bsS8ETUQqgBpAoT2D6tjmw.png]
+### soln: ![https://miro.medium.com/max/1838/1*bsS8ETUQqgBpAoT2D6tjmw.png][]
 data has one, and only one, way to be transferred to other parts of the application.
 
 ## Q4-How do we make a React element a DOM element?
